@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int t(int a){
-    cout<<"a";
+    cout<<"a";//see magic
     return a;
 }
 int main(){
